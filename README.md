@@ -15,7 +15,7 @@ See user manual in detail for using NWPEsSE.
 
 For questions on the theory and implementation of NWPEsSe, please contact:
 
-Vanda Glezakou, vanda.glezakou@pnnl.gov
+Vanda Glezakou, glezakouva@ornl.gov
 
 Difan Zhang, difan.zhang@pnnl.gov
 
